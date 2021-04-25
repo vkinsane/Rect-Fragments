@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+/* My CSS  */
+th,
+td {
+  border: 1px solid black;
+}
+table {
+  border: 5px solid black !important;
+}
+.custom-table {
+  width: auto !important;
+  position: relative;
+  padding: 0.75rem 1.25rem;
+  margin: 2rem;
+  border-collapse: collapse;
+}
+
+.thead-dark {
+  color: #fff;
+  background-color: #343a40;
+}
